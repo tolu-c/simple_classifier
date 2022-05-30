@@ -1,5 +1,5 @@
-torch
-torchvision
+https://download.pytorch.org/whl/cpu/torch-0.4.1-cp37-cp37m-linux_x86_64.whlq
+https://download.pytorch.org/whl/cpu/torchvision-0.10.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
 fastai
 voila
 ipywidgets
